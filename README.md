@@ -25,7 +25,7 @@ Se o projeto requer um servidor local para funcionar (por exemplo, se estiver us
 Certifique-se de que o servidor está rodando e anote a URL local onde o projeto está sendo executado (por exemplo, http://localhost:3500).
 
 3 Acesse a Página
-Abra seu navegador e navegue até a URL onde o projeto está sendo executado (por exemplo, http://localhost:3000).
+Abra seu navegador e navegue até a URL onde o projeto está sendo executado (por exemplo, http://localhost:3500).
 
 4 Interaja com o Formulário de Login
   - Preencha os campos de "Username" e "Password".
